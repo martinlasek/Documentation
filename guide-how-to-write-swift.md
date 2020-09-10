@@ -179,7 +179,7 @@ let nameList = ["Tai", "Matt", "Kari", "Sora"]
 
 ## Private and Final
 
-It is preferred to define a class `final` and a functions `private` by default. That said, remove `final` or `private` only if you do need to subclass or access a function publicly.
+It is preferred to define a class `final` and functions `private` by default. That said, remove `final` or `private` only if you do need to subclass or access a function publicly.
 
 **Preferred**
 
@@ -237,7 +237,7 @@ final class UserListVC: UIViewController {
 
 ```swift
 final class UserListVC: UIViewController {
-  private let userListTableView: UITableView {
+  private var userListTableView: UITableView {
     let tableView = UITableView()
     // setup code
     return tableView
