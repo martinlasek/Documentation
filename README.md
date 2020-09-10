@@ -3,5 +3,5 @@ Welcome to my iOS space on Github. I ❤️ iOS. Look below to see what resource
 
 ## Documentation
 
-- **Syntax, semantics and structure**
-  - [How to write Swift](https://github.com/martinlasek/Documentation/master/guide-how-to-write-swift.md)
+- **Syntax, Semantics and Structure**
+  - [How to write Swift](https://github.com/martinlasek/Documentation/blob/master/guide-how-to-write-swift.md)
