@@ -79,7 +79,7 @@ For conciseness, avoid using `self` since Swift does not require it to access 
 Use self only when required by the compiler (in `@escaping` closures, or in initializers to disambiguate properties from arguments). In other words, if it compiles without `self` then omit it.
 
 ## Mindset
-Seperation of concerns. When writing a function you should always strive to have it do *one* job. For example:
+Separation of concerns. When writing a function you should always strive to have it do *one* job. For example:
 
 **Preferred**
 
