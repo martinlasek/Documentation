@@ -1,6 +1,6 @@
 # How to write Swift
 
-The intention of this document is to guide how we should write Swift in projects. The document should be considered as work-in-progress and PR's with corrections etc. are much appreciated!
+The intention of this document is to guide how we should write Swift in our client projects. The document should be considered as work-in-progress and PR's with corrections etc. are much appreciated!
 
 ## Table of Contents
 
