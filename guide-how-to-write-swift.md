@@ -46,7 +46,7 @@ Don't leave out commented code. Delete commented out code. We use git, so you ca
 ## let vs var
 
 - Use `let` and not `var` wherever possible.
-- Avoid force-unwrapping optionals, instead use a `if let` or similar. Alternatively use optional chaining `myVar?.someFuncToCallIfMyVarIsNotNil()`.
+- No force-unwrapping of optionals. Instead use a `if let`, `guard let` or similar. Alternatively use optional chaining `myVar?.someFuncToCallIfMyVarIsNotNil()`.
   
 ## Parentheses
 
