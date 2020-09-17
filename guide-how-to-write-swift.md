@@ -179,7 +179,7 @@ let nameList = ["Tai", "Matt", "Kari", "Sora"]
 
 ## Private and Final
 
-It is preferred to define a class `final` and functions `private` by default. That said, remove `final` or `private` only if you do need to subclass or access a function publicly.
+It is preferred to define a class `final` and functions `private` by default. That said, remove `final` or `private` only if you do need to subclass or access a function publicly. Curious why? Have a look here: [Increasing Performance](https://developer.apple.com/swift/blog/?id=27).
 
 **Preferred**
 
